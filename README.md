@@ -44,6 +44,8 @@ xdebug.remote_cookie_expire_time = 36000
 ```
 
 * Stop/Start Apache
+<img src="https://confluence.jetbrains.com/download/attachments/50497722/xdebug_terminal.png?version=1&modificationDate=1361386904000&api=v2" />
+<img src="https://confluence.jetbrains.com/download/attachments/50497722/xdebug_phpinfo.png?version=1&modificationDate=1361386904000&api=v2" />
 
 * Click on the Github &#9733; Star :-)
 

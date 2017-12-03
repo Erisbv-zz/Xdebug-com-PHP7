@@ -49,6 +49,9 @@ xdebug.remote_cookie_expire_time = 36000
 
 ## PhpStorm
 
+* Completo Tutorial:
+https://confluence.jetbrains.com/display/PhpStorm/Zero-configuration+Web+Application+Debugging+with+Xdebug+and+PhpStorm
+
 * Use the [PhpStorm bookmarklets generator](https://www.jetbrains.com/phpstorm/marklets/) to activate Xdebug from the browser side.
 
 ## Netbeans

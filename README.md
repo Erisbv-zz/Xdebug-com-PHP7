@@ -1,8 +1,7 @@
 # Instale o Xdebug no PHP7.x
+
+* Install Xdebug in PHP7.x
 Instale o Xdebug no PHP. Exemplo prático no Xampp.
---------------
-# Install Xdebug in PHP7.x
-Install Xdebug in PHP. Practical example in Xampp.
 
 ## Requirements
 
